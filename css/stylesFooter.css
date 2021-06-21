@@ -1,0 +1,159 @@
+.orangeBack {
+    background-color: #F86201 !important;
+    color: #ffffff !important;
+}
+.orangeText {
+    color: #F86201 !important;
+}
+.orangeOut {
+    border-color: #F86201 !important;
+}
+.greyBack {
+    background-color: #828282 !important;
+    
+}
+.ltGreyBack{
+    background-color: #EDEDED;
+}
+/** h3 {
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+/** h4 {
+    font-size: 16px !important;
+    font-weight: 500 !important; 
+}
+h5{
+    font-weight: 300 !important;
+    font-size: 14px !important;
+    
+}
+h6{
+    font-weight: 300 !important;
+    font-size: 12px !important;
+
+} **/
+hr{
+    color: black !important;
+}
+.p2 {
+    font-weight: 300 !important;
+    font-size: 10px !important;
+}
+.p3 {
+    font-weight: 300 !important;
+    font-size: 8px !important;
+}
+.acBtnWm{
+    border:  0px !important;
+    color: #F96302 !important;
+}
+
+
+.login100-form-btn:hover {
+    background-color: #828282 !important; 
+}
+.btn-outline-success.focus, .btn-outline-success:focus {
+    box-shadow: 0 0 0 0.2rem rgba(175, 175, 175, 0.5);
+}
+
+.btn-outline-success:not(:disabled):not(.disabled).active, .btn-outline-success:not(:disabled):not(.disabled):active, .show>.btn-outline-success.dropdown-toggle {
+    color: #fff;
+    background-color: #828282;
+    border-color: #828282;
+}
+#shippingAddress {
+    display: none;
+}
+#billingAddress {
+    display: none;
+}
+#deliveryOption {
+    display: none;
+}
+#paymentMethod {
+    display: none;
+}
+.homeShip{
+    display: none;
+}
+.hidden {
+    display: none;
+}
+
+/** Simons Code**/
+
+#CAone {
+    background-color: #f1f1f1 !important;
+   
+ }
+ #CAh1 {
+  text-align: center;
+ }
+ #CAh2 {
+    text-align: center;
+ }
+ #CAlogin {
+    color: #F96302
+ }
+ #CAbutton1 {
+    background-color: #F96302;
+    border: #F96302;
+ }
+ #CAbutton2 {
+    color:#F96302;
+    border-color: #F96302;
+ }
+ 
+ #IPone {
+    background-color: #f1f1f1;
+ }
+  
+ .IPh2 {
+    font-size: medium;
+ }
+ #IPbutton1 {
+    background-color: #F96302;
+    border-color: #F96302;
+ }
+ #IPbutton2 {
+    color: #F96302;
+    border-color: #F96302;
+  
+ }
+  
+ #IPlogin {
+    color:#F96302;
+ }
+ .btn-outline-primary:hover {
+ background-color: #f1f1f1;
+ }
+ .starRating {
+    color: #F96302; 
+  }
+  .addCartModal {
+    color: #F96302;
+    border-color: #F96302;
+   }
+   #Modalone {
+    background-color: #f1f1f1;
+  }
+  #Md2 {
+    color: #F96302;
+  }
+  #Modalxout {
+   border-radius: #F96302 !important;
+  }
+  
+ 
+ /** Simons Code**/
+
+ .container-login100 {
+    min-height: 75vh !important;
+ }
+ a {
+    color: #000000;
+ }
+ .fa-heart.position-relative{
+     color:#F86201 !important;
+ }
